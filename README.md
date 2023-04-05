@@ -1,6 +1,6 @@
 ### 👋 Hello World, I'm Brian! 👨🏾‍💻
 
-I'm an aspiring Data Scientist who is passionate about creating technology to elevate peope and build communities.🌍
+I'm an aspiring Data Scientist.🌍
 
 <!-- **nzukimutisyo/nzukimutisyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
